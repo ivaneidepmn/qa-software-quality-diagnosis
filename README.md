@@ -1,7 +1,13 @@
 # QA Software Quality Diagnosis
 
-![QA Diagnóstico Infográfico](Infográfico/qa-diagnosis-infographic.png)
-git
+![QA](https://img.shields.io/badge/QA-Software%20Testing-blue)
+![Cypress](https://img.shields.io/badge/Test%20Automation-Cypress-green)
+![Status](https://img.shields.io/badge/Project-Active-success)
+
+<p align="center">
+  <img src="Infográfico/infographic.png" width="750">
+</p>
+
 ---
 
 ## 🇧🇷 Diagnóstico de Qualidade de Software
@@ -16,12 +22,12 @@ A proposta é permitir que empresas descrevam desafios ou problemas em seus sist
 
 Permitir que empresas descrevam problemas em seus sistemas para possibilitar:
 
-- análise de riscos de software
-- identificação de falhas funcionais
-- criação de planos de teste
-- melhoria da experiência do usuário
-- definição de estratégias de QA
-- identificação de necessidades de automação de testes
+* análise de riscos de software
+* identificação de falhas funcionais
+* criação de planos de teste
+* melhoria da experiência do usuário
+* definição de estratégias de QA
+* identificação de necessidades de automação de testes
 
 ---
 
@@ -31,7 +37,7 @@ A empresa pode preencher o **formulário de diagnóstico de qualidade de softwar
 
 A partir das respostas fornecidas, será possível realizar uma análise técnica do sistema.
 
-### Formulário de diagnóstico
+### 📋 Formulário de diagnóstico
 
 https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9LPkCNslfT_Q/viewform
 
@@ -41,12 +47,12 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9L
 
 Com base nas respostas do formulário é possível identificar:
 
-- problemas de usabilidade
-- falhas funcionais
-- gargalos de performance
-- riscos de qualidade
-- inconsistências no fluxo do sistema
-- necessidade de automação de testes
+* problemas de usabilidade
+* falhas funcionais
+* gargalos de performance
+* riscos de qualidade
+* inconsistências no fluxo do sistema
+* necessidade de automação de testes
 
 ---
 
@@ -54,24 +60,24 @@ Com base nas respostas do formulário é possível identificar:
 
 Após a análise do sistema, é possível fornecer:
 
-✔ Plano de testes  
-✔ Estratégia de QA  
-✔ Automação de testes  
-✔ Relatório de bugs  
-✔ Diagnóstico de qualidade do software  
-✔ Melhoria da experiência do usuário  
-✔ Documentação técnica de QA  
+✔ Plano de testes
+✔ Estratégia de QA
+✔ Automação de testes
+✔ Relatório de bugs
+✔ Diagnóstico de qualidade do software
+✔ Melhoria da experiência do usuário
+✔ Documentação técnica de QA
 
 ---
 
 ## 🧰 Tecnologias utilizadas
 
-- Cypress
-- JavaScript
-- GitHub
-- Test Automation
-- CI/CD
-- QA Analysis
+* Cypress
+* JavaScript
+* GitHub
+* Test Automation
+* CI/CD
+* QA Analysis
 
 ---
 
@@ -87,12 +93,12 @@ The goal is to allow companies to describe problems in their systems so that a Q
 
 Allow companies to describe issues in their systems in order to:
 
-- analyze software risks
-- identify functional failures
-- create testing strategies
-- improve user experience
-- define QA processes
-- identify opportunities for test automation
+* analyze software risks
+* identify functional failures
+* create testing strategies
+* improve user experience
+* define QA processes
+* identify opportunities for test automation
 
 ---
 
@@ -102,7 +108,7 @@ Companies can complete the **software quality diagnosis form**.
 
 Based on the provided information, a technical QA analysis can be performed.
 
-### Diagnosis Form
+### 📋 Diagnosis Form
 
 https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9LPkCNslfT_Q/viewform
 
@@ -112,36 +118,36 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9L
 
 Based on the responses, it is possible to identify:
 
-- usability problems
-- functional issues
-- performance bottlenecks
-- quality risks
-- broken workflows
-- need for automated testing
+* usability problems
+* functional issues
+* performance bottlenecks
+* quality risks
+* broken workflows
+* need for automated testing
 
 ---
 
 ## 🚀 What I can deliver
 
-✔ Test Plan  
-✔ QA Strategy  
-✔ Test Automation  
-✔ Bug Reports  
-✔ Software Quality Diagnosis  
-✔ UX improvement suggestions  
-✔ Technical QA documentation  
+✔ Test Plan
+✔ QA Strategy
+✔ Test Automation
+✔ Bug Reports
+✔ Software Quality Diagnosis
+✔ UX improvement suggestions
+✔ Technical QA documentation
 
 ---
 
 ## 👩‍💻 Author
 
-Ivaneide Pires Monteiro do Nascimento  
+Ivaneide Pires Monteiro do Nascimento
 
 QA Analyst | Test Automation | Cypress
 
-LinkedIn  
+LinkedIn
 https://linkedin.com/in/ivaneidepmn
 
 ---
 
-⭐ This repository is part of my **Software Quality Assurance portfolio**.t
+⭐ This repository is part of my **Software Quality Assurance portfolio**.
