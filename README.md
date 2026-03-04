@@ -1,3 +1,5 @@
+## 📊 QA Software Quality Diagnosis
+![QA Diagnosis](infographic/qa-diagnosis-infographic.png)
 # QA Software Quality Diagnosis
 
 Este projeto foi criado para ajudar empresas a identificar problemas de qualidade em seus sistemas através de uma análise estruturada de QA.

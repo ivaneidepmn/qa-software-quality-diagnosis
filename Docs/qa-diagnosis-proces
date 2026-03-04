@@ -1,0 +1,64 @@
+# QA Diagnosis Methodology
+# Metodologia de Diagnóstico de Qualidade
+
+---
+
+## 🇺🇸 English
+
+The diagnosis follows professional **Software Quality Assurance practices**.
+
+### Exploratory Testing
+
+Initial exploration of the system to identify critical failures.
+
+### Functional Testing
+
+Verification of key system functionalities and expected behaviors.
+
+### Usability Analysis
+
+Evaluation of user experience, navigation flows, and interaction clarity.
+
+### Risk Analysis
+
+Identification of potential risks that may impact system stability or user experience.
+
+### Test Strategy Proposal
+
+Based on the diagnosis, a testing strategy can be suggested including:
+
+- automated testing
+- manual testing
+- regression testing
+- test documentation
+
+---
+
+## 🇧🇷 Português
+
+O diagnóstico segue práticas profissionais de **Garantia da Qualidade de Software (QA)**.
+
+### Testes Exploratórios
+
+Exploração inicial do sistema para identificar falhas críticas.
+
+### Testes Funcionais
+
+Verificação das funcionalidades principais do sistema e comportamento esperado.
+
+### Análise de Usabilidade
+
+Avaliação da experiência do usuário, fluxos de navegação e clareza da interação.
+
+### Análise de Riscos
+
+Identificação de possíveis riscos que podem impactar a estabilidade do sistema ou a experiência do usuário.
+
+### Proposta de Estratégia de Testes
+
+Com base no diagnóstico, pode ser sugerida uma estratégia de testes incluindo:
+
+- testes automatizados
+- testes manuais
+- testes de regressão
+- documentação de testes
