@@ -1,7 +1,7 @@
 # QA Software Quality Diagnosis
 
-![QA Diagnosis Infographic](Infografico/qa-diagnosis-infographic.png)
-
+![QA Diagnosis Infografico-Infografico](Infografico/qa-diagnosis-infographic.png)
+git
 ---
 
 ## 🇧🇷 Diagnóstico de Qualidade de Software
