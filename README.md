@@ -1,6 +1,6 @@
 # QA Software Quality Diagnosis
 
-![QA Diagnosis Infografico-Infografico](Infografico/qa-diagnosis-infographic.png)
+![QA Diagnóstico Infográfico](Infográfico/qa-diagnosis-infographic.png)
 git
 ---
 
