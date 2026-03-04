@@ -51,6 +51,20 @@ The responses are analyzed to identify **technical risks and quality improvement
 
 ---
 
+# ⏱ Diagnosis Delivery Time
+
+After the form is submitted, a **QA diagnostic analysis can be performed within up to 3 business days.**
+
+The diagnosis may include:
+
+- QA maturity evaluation
+- identification of quality risks
+- testing process analysis
+- automation opportunities
+- recommendations for improving software quality
+
+---
+
 # 🔍 What will be analyzed
 
 Based on the responses it is possible to detect:
@@ -76,7 +90,21 @@ After the analysis, the following QA artifacts can be proposed:
 ✔ Structured Bug Reports  
 ✔ Software Quality Diagnosis  
 ✔ UX and usability improvements  
-✔ QA Documentation
+✔ QA Documentation  
+
+---
+
+# ⚙ How the diagnosis works
+
+1️⃣ Company fills out the QA diagnostic form  
+
+2️⃣ Responses are analyzed to identify quality risks  
+
+3️⃣ QA maturity score is calculated  
+
+4️⃣ A diagnosis with recommendations can be generated  
+
+5️⃣ Next steps for improving software quality are proposed  
 
 ---
 
@@ -89,7 +117,7 @@ Example capabilities demonstrated:
 ✔ Automated UI tests  
 ✔ Functional test validation  
 ✔ CI/CD pipeline with GitHub Actions  
-✔ Identification of usability and functional bugs
+✔ Identification of usability and functional bugs  
 
 ---
 
@@ -135,6 +163,12 @@ Permitir que empresas descrevam problemas em seus sistemas para possibilitar:
 - melhoria da experiência do usuário
 - definição de estratégias de QA
 - identificação de necessidades de automação de testes
+
+---
+
+# 📩 Contact
+
+If your company would like to receive a **QA software quality diagnosis**, feel free to get in touch.
 
 ---
 
